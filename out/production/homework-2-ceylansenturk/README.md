@@ -60,5 +60,3 @@ Yani uygulamada nesnelerin oluşturulmasından sorumludur. Yazılımımızda nes
 Singleton, Factory, Abstract Factory, Builder ve Prototype gibi patternler creational patternlerdir.
 
 6. Singleton ve Abstarct Factory patternlerini implemente eden kodu yazın.
-
-Singleton pattern'in kodu src klasörünün altına eklenmiştir.
